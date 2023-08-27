@@ -1,1 +1,1 @@
-APIKEY = "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"
+APIKEY = "use your own API key"

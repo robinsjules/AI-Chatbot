@@ -6,4 +6,7 @@ SMU Libraries GPT is a web-based application deployed using Streamlit that takes
 - <b>Q&A Search Enginge:</b> Based on our dataset, the chatbot can provide direct answers to FAQ.
 
 ## Deployment
-To deploy the project locally, make sure to open the project folder and type 'streamlit run app.py' in the terminal. Open [http://localhost:8501](http://localhost:8501) using your browser to see the project.
+To deploy the project locally, make sure to:
+- Put your own OpenAI API key in the constants.py file
+- Download and open the project folder, then type 'streamlit run app.py' in the terminal
+- Open [http://localhost:8501](http://localhost:8501) using your browser to see the project
