@@ -1,6 +1,8 @@
 # SMU Libraries GPT
 SMU Libraries GPT is a web-based application that can be deployed using Streamlit (currently not publicly deployed due to keeping the API key a secret) that takes in user prompts and uses LangChain with OpenAI to generate answers.
 
+<p align = 'center'>https://github.com/robinsjules/AI-Chatbot/assets/111500254/cec2065e-3488-46c0-96c5-c7296eeb7179</p>
+
 ## Features
 - <b>Intelligent Recommendation:</b> Users can describe their interests or conditions to receive a more personalised answer.
 - <b>Q&A Search Enginge:</b> Based on our dataset, the chatbot can provide direct answers to FAQ.
