@@ -20,3 +20,67 @@ Leadership is an influence, a conviction and a responsibility a team establishes
 
 6. Excellence 
 Excellence entails giving your very best in every endeavour you undertake
+
+
+Workshops:
+[NEW] Planning for Effective Communication with Justyn Olby, SSC
+The workshop will introduce attendees to a planning process and complementary tools to help them plan their communication. The attendees will learn how to plan, and what tools to use at each stage of the planning and delivery process. The learning from workshop will apply to both presentations and writing.
+[NEW] AI Governance in the Age of Digital Intelligence with Assoc Prof. Zhu Feida, SCIS
+In the global discourse on AI ethics, how to institute AI governance? New to you? Learn the key concepts and get a glimpse into the future.
+R Episode Series with Assoc Prof. Kam Tin Seong, SCIS
+Join Prof Kam in this 9-episode series of R workshops. No prior R programming experience is needed as long as you are willing to learn!
+Python 101 Series with Bella Ratmelia, Librarian, Data Services
+Join Bella in this Python 101 series where you will learn the basics of Python programming, various data types, and how to use Python packages and APIs! You are welcome regardless of your experience with Python, but please do note that this series is aimed for Python novices.
+[NEW] Text Analysis with ProQuest TDM Studio with Bella Ratmelia, Librarian, Data Services
+Power up your research with ProQuest Text and Data Mining (TDM) Studio's intuitive tools! Seamlessly curate content (news, journal articles, etc.) and delve straight into data analysis without any coding expertise needed.
+[NEW] Generative AI powered search engines - Elicit, Scite assistant and Scispace with Aaron Tay, Lead, Data Services
+Generative AI for literature review is hot. Join this hands-on workshop, where you have the opportunity to try your searches on Elicit, Scite assistant , Scispace and Bing Chat. Aaron will spend 20 minutes walking through the similarities and differences in the way these AI powered search engines work before giving participants a chance to try.
+[NEW] Data Anonymization 101 for Researchers with Dong Danping, Senior Librarian, Research Services
+In this introductory workshop for researchers, we will cover the basic concepts and techniques to anonymize research data effectively.
+Cite Like Lightning. Use Zotero. with Benedict Yeo, Research Librarian, Social Sciences
+Use Zotero to collect and manage your references and PDFs, insert in-text citations into a Word document and format your bibliographies automatically. Zap.
+[NEW] LaTeX 101: Creating Your First LaTeX Document with Samantha Seah, Librarian, Digital Innovation
+Always wanted to learn how to use LaTeX? In this workshop, we'll use Overleaf to show you the basics of formatting text, writing mathematical formulae, inserting figures and tables, and adding references to create your first LaTeX document. Beginners and non-coders welcome!
+Learning Bloomberg the Fun Way with Tee Lip Hwe, Research Librarian, Accountancy & Business (Finance)
+Uncover 10 gem Bloomberg functions.
+[NEW] Let's Prospect with Crunchbase and BoardEx with Redzuan Abdullah, Research Librarian, Business
+Identify your potential ICP (Ideal Customer Profile), be it companies or individuals based on industry, company size, and funding.
+Researching with Google & Wikipedia with Asst Prof. Ksenia Tatarchenko, CIS & Li Zhenyan, Librarian, Learning & Engagement
+What's wrong with using Wikipedia and Google for research? Can we use them? How do we optimise these research tools? We will also have a fireside chat about using AI tools for research.
+Business Research 101: Get the Insider’s Scoop with the Library Peer Advisors - Yasmin Sara Rajlingam, LKCSB, Nur Isabella Binte Mohamad Norhaizat, SOSS & Aashmika Varma, SOSS
+Want insider tips from your seniors to tackle business research for class assignments? Join this Library Peer Advisors (LPAs) session to learn more! Perfect for freshmen and 2nd years!
+Research Skills for Entrepreneurs to Be with Melody Chin, Research Librarian, Economics, Sumita Govindan, Research Librarian, Business & Xia Wei, Research Librarian, Computing and Information Systems
+Looking to start on your entrepreneurial journey? Join us to find resources you can leverage from SMU Libraries.
+Understanding the Fundamentals of Legal Research with Bryan Leow, Associate Librarian, Law
+Confused by the terms "legislation" and "case law"? Find out what is the difference and gain a better appreciation of how the Singapore legal system works, and where and how to find relevant Singaporean legal materials.
+[NEW] First Steps in Text Mining Basics in Accounting and Finance with Tee Lip Hwe, Research Librarian, Accountancy & Business (Finance)
+A gentle beginner's workshop on text mining in accounting and finance.
+Contemporary Art from Southeast Asia: Thukhuma Collection with Kamiliah Bahdar, Curator, Art Collections and Programmes
+Do you know our campus houses a diverse and lively collection of contemporary art from Southeast Asia? Take a tour through the Thukhuma Collection, a collection of contemporary paintings from Myanmar, and hear about the artists, the artworks, and the history of SMU Art Collection.
+
+To register for workshops, please register here: https://eventregistration.smu.edu.sg/event/8331129c-55a8-4e59-89f5-7f09686282e2/regProcessStep1
+
+
+
+Weekday Operating Hours:
+Li Ka Shing Library	8:00am – 11:59pm
+Learning Commons	24/7
+Service Desk	8:30am – 7:00pm
+Kwa Geok Choo Law Library	8:00am – 11:59pm
+Learning Commons	24/7
+Service Desk	8:30am – 7:00pm
+"Ask Library" Chat	10:00am – 7:00pm
+
+Sunday Operating Hours:
+Li Ka Shing Library	1:00pm – 9:00pm
+Learning Commons	24/7
+Kwa Geok Choo Law Library	1:00pm – 9:00pm
+Learning Commons	24/7
+"Ask Library" Chat	Closed
+
+Saturday Operating Hours:
+Li Ka Shing Library	10:00am – 9:00pm
+Learning Commons	24/7
+Kwa Geok Choo Law Library	10:00am – 9:00pm
+Learning Commons	24/7
+"Ask Library" Chat	Closed
